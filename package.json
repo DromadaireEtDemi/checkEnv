@@ -1,0 +1,22 @@
+{
+  "name": "check-env",
+  "version": "0.0.1",
+  "description": "Initialize environment variable with dotenv",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DromadaireEtDemi/checkEnv.git"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "author": "ty000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DromadaireEtDemi/checkEnv/issues"
+  },
+  "homepage": "https://github.com/DromadaireEtDemi/checkEnv#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+  }
+}
